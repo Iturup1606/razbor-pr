@@ -1,0 +1,19 @@
+{
+  "name": "razbor-pr",
+  "description": "Разбор PR на русском: ведёт по изменениям так, как их читает опытный разработчик, делит находки на обязательные, по желанию и «выглядит опасно, но в порядке», в конце даёт промт на исправление. Только чтение.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Iturup1606",
+    "url": "https://github.com/Iturup1606"
+  },
+  "homepage": "https://github.com/Iturup1606/razbor-pr",
+  "repository": "https://github.com/Iturup1606/razbor-pr",
+  "license": "MIT",
+  "keywords": [
+    "claude-code",
+    "claude-skills",
+    "code-review",
+    "pull-request",
+    "russian"
+  ]
+}

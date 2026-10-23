@@ -1,0 +1,18 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "razbor-pr",
+  "description": "Скилл razbor-pr для Claude Code",
+  "owner": {
+    "name": "Iturup1606",
+    "url": "https://github.com/Iturup1606"
+  },
+  "plugins": [
+    {
+      "name": "razbor-pr",
+      "description": "Разбор PR на русском: зачем изменения, в каком порядке читать, что может сломаться, что исправить обязательно. Только чтение.",
+      "source": "./",
+      "category": "development",
+      "homepage": "https://github.com/Iturup1606/razbor-pr"
+    }
+  ]
+}
